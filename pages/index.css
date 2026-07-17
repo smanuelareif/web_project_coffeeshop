@@ -6,3 +6,11 @@
   font-size: 16px;
   line-height: 20px;
 }
+
+body {
+  background-color: #ffffff;
+  background-image: url("../background_header.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
