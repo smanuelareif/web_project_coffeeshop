@@ -66,10 +66,10 @@
   letter-spacing: 1px;
 }
 
-.span-acent {
+.span-accent {
   font-family: "Noto Serif";
   font-style: italic;
-  font-family: normal;
+  font-weight: normal;
   font-size: 58px;
   line-height: 72px;
   color: #2f80ed;
@@ -164,7 +164,7 @@
   height: auto;
 }
 
-.recipes__video-capition {
+.recipes__video-caption {
   display: flex;
   justify-content: space-between;
   margin: 24px 0 0 0;
