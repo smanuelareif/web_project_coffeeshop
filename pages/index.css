@@ -55,7 +55,7 @@
   right: 80px;
 }
 
-.header__title {
+.header__title h1 {
   max-width: 709px;
   margin: 183px 0 0 80px;
   font-family: "Inter";
