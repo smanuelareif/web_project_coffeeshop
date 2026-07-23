@@ -1,15 +1,14 @@
 .nav__logo {
   position: relative;
+  left: -50px;
   width: 105px;
   height: 39px;
-  padding: 30px;
 }
 
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 80px 0;
 }
 
 .nav__links {

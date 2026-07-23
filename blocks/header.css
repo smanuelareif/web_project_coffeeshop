@@ -52,8 +52,9 @@
 
 .header__footer {
   display: flex;
-  margin: auto 0 40px 0;
-  flex-direction: column;
+  justify-content: space-between;
+  margin: auto 0 0 0;
+  align-items: end;
 }
 
 .header__paragraph {
